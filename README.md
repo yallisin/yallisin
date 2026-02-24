@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Prazer, Yallison. Tenho 21 anos de idade e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUC Minas. Gosto de explorar minha criatividade e por isso me apapixonei pela programação! Me acompanhe!
+Prazer, Yallison. Tenho 21 anos de idade e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela PUC Minas. Gosto de explorar minha criatividade e por isso me apaixonei pela programação! Me acompanhe!
 
 <p align="left">
     <a href="https://www.linkedin.com/in/yallison">
